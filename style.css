@@ -12,7 +12,8 @@ nav{
     /* width: 100vh; */
     display: flex;
     justify-content:space-between;
-    background: #C19700;
+    /* background: #C19700; */
+    background: black;
     align-items: center;
     padding: 1.5rem;
 }
